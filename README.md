@@ -23,11 +23,15 @@ The full implementation and reproduction code will be added after completion of 
 
 Environment check:
 
+```bash
 python demo/environment_check.py
+```
 
 Preview smoke test:
 
+```bash
 python demo/smoke_test.py
+```
 
 ## Full Release
 
